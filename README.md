@@ -95,6 +95,10 @@ Tos stop docker conatiner
 ```
 docker stop <container_id>
 ```
-'''
+
+To insatall requirements
+
+```
 python setup.py install
-''''
+```
+
